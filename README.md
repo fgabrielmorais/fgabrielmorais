@@ -59,10 +59,3 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fgabrielmorais&theme=github-dark&hide_border=true" alt="Activity Graph" />
 
-
-
-
-
-Link para os badges: https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#markdown-badges
-
-Link do stats: 
